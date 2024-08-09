@@ -11,7 +11,7 @@ const ToDo = sequelize.define('toDo', {
     defaultValue: false,
     allowNull: false
   },
-  //userId
+  //userIdId
 });
 
 module.exports = ToDo;
